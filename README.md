@@ -8,6 +8,12 @@ Engage in peer-to-peer communication with the Chat Messenger, a Java-based appli
 📝 Logging: Maintain detailed logs of all chat activities with periodic updates.
 🌐 Platform Independent: Operate seamlessly across different platforms and architectures.
 
+## Getting Started
+
+1.Clone the Repo:(https://github.com/Kiran-Londhe/chatmessanger)
+Contributions Welcome! 🎉
+Help improve the project by opening issues, submitting pull requests, and collaborating with the community.
+
 ## Future Roadmap 🛤️
 
 🔄 Enhance Logging: Implement more sophisticated logging features.
